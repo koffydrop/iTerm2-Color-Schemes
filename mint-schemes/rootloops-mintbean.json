@@ -1,0 +1,25 @@
+{
+  "source": "rootloops.sh",
+  "hex": {
+    "background": "#102723",
+    "foreground": "#c2ede4",
+    "text": "#102723",
+    "cursor": "#72bcad",
+    "black": "#102723",
+    "red": "#f38e7e",
+    "green": "#5cc979",
+    "yellow": "#cfaa38",
+    "blue": "#93abf4",
+    "magenta": "#e587dd",
+    "cyan": "#3fc1d6",
+    "white": "#72bcad",
+    "brightBlack": "#36695f",
+    "brightRed": "#f7afa3",
+    "brightGreen": "#6be18a",
+    "brightYellow": "#e7bf4d",
+    "brightBlue": "#b0c2f7",
+    "brightMagenta": "#ecabe5",
+    "brightCyan": "#5dd8ec",
+    "brightWhite": "#c2ede4"
+  }
+}

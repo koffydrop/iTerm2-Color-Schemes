@@ -1,0 +1,34 @@
+
+# Copy the configuration below and add it to your
+# ~/.config/alacritty/alacritty.toml file
+
+# Colors (Root Loops)
+# via rootloops.sh
+
+[colors.primary]
+background = '#102723'
+foreground = '#c2ede4'
+
+[colors.cursor]
+text = '#102723'
+cursor = '#72bcad'
+
+[colors.normal]
+black = '#102723'
+red = '#f38e7e'
+green = '#5cc979'
+yellow = '#cfaa38'
+blue = '#93abf4'
+magenta = '#e587dd'
+cyan = '#3fc1d6'
+white = '#72bcad'
+
+[colors.bright]
+black = '#36695f'
+red = '#f7afa3'
+green = '#6be18a'
+yellow = '#e7bf4d'
+blue = '#b0c2f7'
+magenta = '#ecabe5'
+cyan = '#5dd8ec'
+white = '#c2ede4'

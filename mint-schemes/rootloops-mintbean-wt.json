@@ -1,0 +1,23 @@
+{
+  "name": "Root Loops",
+  "cursorColor": "#72bcad",
+  "selectionBackground": "#102723",
+  "background": "#102723",
+  "foreground": "#c2ede4",
+  "black": "#102723",
+  "blue": "#93abf4",
+  "cyan": "#3fc1d6",
+  "green": "#5cc979",
+  "purple": "#e587dd",
+  "red": "#f38e7e",
+  "white": "#72bcad",
+  "yellow": "#cfaa38",
+  "brightBlack": "#36695f",
+  "brightBlue": "#b0c2f7",
+  "brightCyan": "#5dd8ec",
+  "brightGreen": "#6be18a",
+  "brightPurple": "#ecabe5",
+  "brightRed": "#f7afa3",
+  "brightWhite": "#c2ede4",
+  "brightYellow": "#e7bf4d"
+}
